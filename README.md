@@ -5,4 +5,4 @@
 - Paypal (payment gateway)
 - Shopisle theme
 - System need UI improvements, but the intent of development was to learn and get in touch with WooCommerce and it is achieved
-- Website view: https://sangaleninad1891.wixsite.com/ninads/work 
+- Website view (images): https://sangaleninad1891.wixsite.com/ninads/work 
